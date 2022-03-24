@@ -33,11 +33,11 @@ ORDER BY 1 ASC;
   to the service account you created at project level.
 - Once Done, you have to create the json key, go to service accounts<br/>
 ![img_1.png](images/img_1.png)
-- click on manage keys
+- click on manage keys<br/>
 ![img_2.png](images/img_2.png)
-- create new key
+- create new key<br/>
 ![img_3.png](images/img_3.png)
-- create json file
+- create json file<br/>
 ![img_4.png](images/img_4.png)
 - it will download the json file and that will be used for your consuming application.
 
