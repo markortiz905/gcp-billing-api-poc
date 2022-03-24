@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    gcp:
+      bigquery:
+        enabled: true
+        datasetName: project_costing
+        project-id: psyched-elixir-345100
