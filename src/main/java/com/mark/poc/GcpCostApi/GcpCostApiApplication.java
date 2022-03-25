@@ -78,11 +78,7 @@ public class GcpCostApiApplication {
 			logger.info("No Billing Records at the moment.");
 		}
 
-		//ObjectMapper mapper = new ObjectMapper();
-		//String rowsJson = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(rows);
-
-		//System.out.println(rowsJson);
-
+		//return rows;
 	}
 
 }
